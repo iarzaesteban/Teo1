@@ -1,0 +1,7 @@
+_varEnt,VARIABLE,,_,_
+_3, NUMENT , _ , 3 , _ 
+_varReal,VARIABLE,,_,_
+_2.3, NUMREAL , _ , 2.3 , _ 
+_varStr,VARIABLE,,_,_
+_"variable string", VALSTRING , _ ,"variable string",17
+_"hola", VALSTRING , _ ,"hola",6
