@@ -1,0 +1,4 @@
+_varEnt=3
+_varReal=2.3
+_varStr="variable string"
+hola "hola"
